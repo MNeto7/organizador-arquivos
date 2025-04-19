@@ -1,0 +1,19 @@
+[2025-04-19 14:38:35.836379] Movido: aaaa.jpeg -> Imagens
+[2025-04-19 14:38:35.838325] Movido: background.jpg -> Imagens
+[2025-04-19 14:38:35.839455] Movido: chave teamspeak.txt -> Documentos
+[2025-04-19 14:38:35.840674] Movido: dota-2-wallpaper-preview.jpg -> Imagens
+[2025-04-19 14:38:35.841801] Movido: dota-dota-2-video-games-the-international-ti10-hd-wallpaper-db762c4d33b16f59c554cb59ddac2c40.jpg -> Imagens
+[2025-04-19 14:38:35.843044] Movido: error-507-concept-with-random-parts-of-program-codeerror-507-text-written-on-programming-code-abstract-technology-background-of-software-developer-an-2H2T6J8.jpg -> Imagens
+[2025-04-19 14:38:35.844297] Movido: Ht4KpOC.jpg -> Imagens
+[2025-04-19 14:38:35.845499] Movido: Imagem do WhatsApp de 2025-02-21 à(s) 14.54.50_c32274b1.jpg -> Imagens
+[2025-04-19 14:38:35.847742] Movido: Imagem do WhatsApp de 2025-03-28 à(s) 09.48.54_6ef48805.jpg -> Imagens
+[2025-04-19 14:38:35.849082] Movido: Imagem do WhatsApp de 2025-03-30 à(s) 23.54.42_2d4654b2.jpg -> Imagens
+[2025-04-19 14:38:35.850464] Movido: Matheus Neto de Lima - Curso Começando em Programação_ carreira e primeiros passos - Alura.pdf -> Documentos
+[2025-04-19 14:38:35.852383] Movido: Sem título.jpg -> Imagens
+[2025-04-19 14:38:35.853890] Movido: transferir.jpg -> Imagens
+[2025-04-19 14:38:35.855169] Movido: wizarding-world-legacy-link-reward-wallpaper-0eaee25c51d148b5ada70c8944b7e199.jpg -> Imagens
+[2025-04-19 14:38:35.856405] Movido: xis calota.jpg -> Imagens
+[2025-04-19 14:38:35.857791] Movido: xis-calota-carne-com.jpg -> Imagens
+[2025-04-19 15:31:57.225220] Movido: GearUP-2.29.1-fragpunk.exe -> Instaladores
+[2025-04-19 15:31:57.227612] Movido: Git-2.49.0-64-bit.exe -> Instaladores
+[2025-04-19 15:31:57.229945] Movido: python-3.13.2-amd64.exe -> Instaladores
